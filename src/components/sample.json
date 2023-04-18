@@ -1,0 +1,70 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Michelle Toh, Mohammed Tawfeeq, Anna Cooban",
+    "title": "Oil prices surge after OPEC+ producers announce surprise cuts - CNN",
+    "description": "Oil prices spiked Monday after OPEC+ producers unexpectedly announced that they would cut output.",
+    "url": "https://www.cnn.com/2023/04/02/business/opec-production-cuts/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230402112718-saudi-arabia-oil-production-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-03T10:10:00Z",
+    "content": "Hong Kong/Atlanta/LondonCNN\r\n  — \r\nOil prices spiked Monday after OPEC+ producers unexpectedly announced that they would cut output.\r\nBrent crude, the global benchmark, jumped 5.33% to $84.15 a barre… [+3325 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "US first-quarter auto sales set to rise on better inventory - Reuters",
+    "description": "U.S. auto sales are expected to rise for a second straight quarter as automakers are able to ship more vehicles to dealers on time, analysts said, while focus will also be on watching out for signs of plateauing demand.",
+    "url": "https://www.reuters.com/markets/us/us-first-quarter-auto-sales-set-rise-better-inventory-2023-04-03/",
+    "urlToImage": "https://www.reuters.com/resizer/ksFySVGsMcHo8JPdBpK90LJNqW0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YTSSEPFG5RL3BAOHU2ESRP7H4Y.jpg",
+    "publishedAt": "2023-04-03T10:08:00Z",
+    "content": "April 3 (Reuters) - U.S. auto sales are expected to rise for a second straight quarter as automakers are able to ship more vehicles to dealers on time, analysts said, while focus will also be on watc… [+1802 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Cineworld ditches sale of US, UK businesses after failing to find buyer - Reuters",
+    "description": "Cineworld <a href=\"https://www.reuters.com/companies/CINE.L\" target=\"_blank\">(CINE.L)</a> said on Monday it would no longer put up for sale its U.S., UK and Ireland businesses as the movie chain operator failed to find a buyer for the group, sending shares in…",
+    "url": "https://www.reuters.com/markets/deals/uks-cineworld-terminate-sale-process-us-uk-businesses-2023-04-03/",
+    "urlToImage": "https://www.reuters.com/resizer/HzqEGiD0fbfCa5r4LPHKuUDaHA0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RK6KRK6TBNJPNAOXDTSS75AN3E.jpg",
+    "publishedAt": "2023-04-03T09:25:00Z",
+    "content": "April 3 (Reuters) - Cineworld (CINE.L) said on Monday it would no longer put up for sale its U.S., UK and Ireland businesses as the movie chain operator failed to find a buyer for the group, sending … [+1706 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Saleen Martin, USA TODAY",
+    "title": "Texas woman uses 'cash stuffing' and stimulus check to pay off nearly $80,000 in debt - Yahoo Finance",
+    "description": "Before she started cash stuffing, Jasmine Taylor said she was tired of being in financial distress. She turned that success into 'Baddies and Budgets'",
+    "url": "https://www.usatoday.com/story/money/2023/04/02/jasmine-taylor-cash-stuffing-business-baddies-budgets/11569801002/",
+    "urlToImage": "https://media.zenfs.com/en/usa_today_money_325/1167bdb0eb460a634fc2b8084c2a9c52",
+    "publishedAt": "2023-04-03T08:30:45Z",
+    "content": "A Texas woman who was nearly $80,000 deep in debt has gone viral for using a saving method called cash stuffing to pay it all off.\r\nJasmine Taylor, 31, lives in Amarillo, Texas. In January 2021, she … [+5518 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Twitter’s new label makes it hard to differentiate between legacy and paid verified accounts - TechCrunch",
+    "description": "Twitter has introduced a new check mark label that makes it impossible to separate between legacy and paid verified accounts.",
+    "url": "https://techcrunch.com/2023/04/03/twitters-new-label-makes-it-hard-to-differentiate-between-legacy-and-paid-verified-accounts/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-verified.jpg?resize=1200,813",
+    "publishedAt": "2023-04-03T07:22:46Z",
+    "content": "Twitter was supposed to ceremoniously remove legacy verification checkmarks on April 1. While it appears to have put those plans on hold for now, the Elon Musk-led social network has revised the labe… [+2467 chars]"
+    }]
+}
